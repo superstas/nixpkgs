@@ -23812,6 +23812,12 @@
     githubId = 7258858;
     name = "Sandro Jäckel";
   };
+  superstas = {
+    email = "s.afanasev@truvity.com";
+    github = "superstas";
+    githubId = 499721;
+    name = "Stas Afanasev";
+  };
   supinie = {
     name = "supinie";
     email = "nix@supinie.com";
